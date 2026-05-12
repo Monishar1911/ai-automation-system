@@ -50,4 +50,4 @@ summary = count_by_type(logs)
 print("")
 print("=== Summary ===")
 for type_name, count in summary.items():
-    print(f"{type_name}: {count} messages")
+    print(f"{type_name}: {count} messages")``
